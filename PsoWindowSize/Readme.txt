@@ -123,6 +123,22 @@ The program is a standalone EXE that can be launched before or after PSO is runn
    --------
    Specify if the IP patch will be applied. If so, the server address can be entered in the box next to it. This may be useful for people wanting to test other servers. This box accepts both domain name addresses or direct IP addresses.
 
+
+      RUN TIME PATCHES
+   ================
+
+   Kill PSO if window is closed
+   ----------------------------
+   Sometimes you may close PSO by pressing the X on the window, which will close the window but PSO will be still running with music and all. This option forces PSO to close if the window is no longer present. 
+
+   Check for controllers
+   ---------------------
+   Some users expderienced crashes when checking for controllers due to missing XINPUT DLL. This option skips controller check to prevent any further problems coming from the controller check.
+
+   Bypass all patches
+   ------------------
+   This makes it possible to run a patched executable, and use the launcher only for resizing the PSO window.
+
 After the desired resolution and patch settings are selected, click Launch to start PSO. While PSO is running the resolution can be changed, but other patches will require PSO to be restarted. 
 
 

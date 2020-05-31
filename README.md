@@ -7,7 +7,7 @@ This README documents whatever steps are necessary to get your application up an
 * Quick summary:
 PsoLauncher is a launcher that allows precise resizing of the game window, as well as patching functionality.
 * Version:
-1.2
+1.4.4
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
